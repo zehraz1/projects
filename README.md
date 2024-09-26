@@ -1,2 +1,2 @@
-# projects
+# Projects
 Software Related Projects
